@@ -1,0 +1,88 @@
+{
+  "version": 1,
+  "base_track": "Boogie Wonderland（feat. EARTH,WIND & FIRE）",
+  "base_artist": "EARTH,WIND & FIRE",
+  "createdAt": "2026-02-21T12:09:32.566412Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (Feat. The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/01_Boogie_Wonderland_(Feat._The_Emotions)_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (feat. The Emotions)",
+      "artist": "Earth Wind & Fire",
+      "has_synced": true,
+      "path": "select/02_Boogie_Wonderland_(feat._The_Emotions)_Earth_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Boogie Wonderland feat. The Emotions",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/03_Boogie_Wonderland_feat._The_Emotions_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (feat. The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/04_Boogie_Wonderland_(feat._The_Emotions)_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (Feat. The Emotions)",
+      "artist": "Earth Wind & Fire",
+      "has_synced": true,
+      "path": "select/05_Boogie_Wonderland_(Feat._The_Emotions)_Earth_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (Feat. The E",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/06_Boogie_Wonderland_(Feat._The_E_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (feat The Emotions)",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/07_Boogie_Wonderland_(feat_The_Emotions)_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (feat. The Emotions)",
+      "artist": "The Emotions, Earth, Wind & Fire",
+      "has_synced": true,
+      "path": "select/08_Boogie_Wonderland_(feat._The_Emotions)_The_Emotions,_Earth,_Wind_&_Fire.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Boogie Wonderland (feat. The Emotions)",
+      "artist": "Earth, Wind and Fire",
+      "has_synced": true,
+      "path": "select/09_Boogie_Wonderland_(feat._The_Emotions)_Earth,_Wind_and_Fire.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Boogie Wonderland",
+      "artist": "Earth, Wind & Fire",
+      "has_synced": false,
+      "path": "select/pl_01_Boogie_Wonderland_Earth,_Wind_&_Fire.txt"
+    }
+  ]
+}
